@@ -46,4 +46,6 @@ Plugin 'fatih/vim-go'
 Plugin 'kien/ctrlp.vim'
 Plugin 'LucasChenPandaTW/gotests-vim'
 Plugin 'tpope/vim-rhubarb'
+Plugin 'davidhalter/jedi-vim'
+Plugin 'pangloss/vim-javascript'
 call vundle#end()
